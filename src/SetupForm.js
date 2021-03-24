@@ -10,8 +10,6 @@ const SetupForm = () => {
     <>
     <NavBar/>
     <main>
-          
-
       <section className="quiz quiz-small">
         <form className="setup-form">
           <h2 style={{textAlign:'center'}}>Create Quiz</h2>
