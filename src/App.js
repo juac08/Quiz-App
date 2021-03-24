@@ -40,7 +40,7 @@ function App() {
           <div className="btn-container">
             {answers.map((answer, index) => {
               return (
-                <button
+                <a href
                   key={index}
                   className="answer-btn"
                   dangerouslySetInnerHTML={{ __html: answer }}
