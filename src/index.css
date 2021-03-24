@@ -251,6 +251,13 @@ main {
     color: #ffb100;
 }
 
+@media (hover: hover) {
+    .next-question:hover {
+        background: #805900;
+        color: #ffb100;
+    }
+}
+
 
 /*
 =============== 
